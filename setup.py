@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='aws-sts-env',
+    name='aws_sts_env',
     packages=find_packages(),
     version='0.0.1',
     install_requires=[],
